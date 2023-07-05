@@ -10,7 +10,7 @@ Chatbot ini dirancang sebagai asisten virtual yang dapat digunakan oleh mahasisw
 ![flow](https://github.com/ArvyKR/arvykr.github.io/assets/95832640/9e35b30b-5be3-4ddb-884f-76dcd6bc1fae)
 
 
-### Built With Chatbot ini dibuat menggunakan 
+### Chatbot ini dibuat menggunakan 
 
 * [![watson][watson]][watson]
 
