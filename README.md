@@ -1,6 +1,10 @@
 # AI Chabot for Kampus Merdeka using Watson Assistant
 Capstone Project Arvy Kurnia Ramadhan in Infinite Learning 
 
+# Pattern
+
+https://developer.ibm.com/patterns/assemble-a-pizza-ordering-chatbot-dialog/?mhsrc=ibmsearch_a&mhq=
+
 # Description
 
 Chatbot ini dirancang sebagai asisten virtual yang dapat digunakan oleh mahasiswa untuk mendapatkan informasi mengenai berbagai aspek program Kampus Merdeka. Chatbot ini didukung oleh kecerdasan buatan (artificial intelligence) dan dapat memberikan jawaban atas pertanyaan yang diajukan oleh pengguna berdasarkan pengetahuan yang telah diprogram sebelumnya. Dengan adanya chatbot Kampus Merdeka, diharapkan mahasiswa/i dapat dengan mudah mengakses informasi yang dibutuhkan dan mendapatkan bantuan yang diperlukan dalam mencari informasi mengenai program Kampus Merdeka.
