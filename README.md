@@ -10,5 +10,8 @@ Capstone Project Arvy Kurnia Ramadhan in Infinite Learning
 
 * [![watson][watson]][watson]
 
+### Link
+arvykr.github.io
+
 
   [watson]: https://img.shields.io/badge/watson-assistant-blue
