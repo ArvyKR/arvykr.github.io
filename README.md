@@ -1,4 +1,4 @@
-# AI Chabot for Kampus Merdeka using Watson Assistant
+# Implementation AI Chabot for Kampus Merdeka using Watson Assistant
 Capstone Project Arvy Kurnia Ramadhan in Infinite Learning 
 
 # Pattern
