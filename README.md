@@ -74,6 +74,7 @@ You will see that the dialog has been imported. Click on the words `Kampus-Merde
 ### Test out the Chatbot
 
 Normally, you can test the dialog skill be selecting the `Try it` button located at the top right side of the dialog skill panel, but when integrated with a search skill, a different method of testing must be used.
+In this example I use the preview tab to test my chatbot
 
 <br>
 <p align="center">
@@ -83,9 +84,8 @@ Normally, you can test the dialog skill be selecting the `Try it` button located
 
 
 
-
   
-### Link
+## Link
 [Kamdek BOT](https://arvykr.github.io/)
 
 
