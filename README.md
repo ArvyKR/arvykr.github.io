@@ -21,8 +21,8 @@ Chatbot ini dirancang sebagai asisten virtual yang dapat digunakan oleh mahasisw
 
 Follow these steps to setup and run this code pattern. The steps are described in detail below.
 
-1. [Create IBM CLOUD Services](#2-create-ibm-cloud-services)
-5. [Configure Watson Assistant and Test the Chatbot](#5-configure-watson-assistant-and-test-the-chatbot)
+1. [Create IBM Cloud services](#1-create-ibm-cloud-services)
+5. [Configure Watson Assistant and Test the Chatbot](#2-configure-watson-assistant-and-test-the-chatbot)
 
 ## 1. Create IBM Cloud services
 
