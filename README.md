@@ -69,7 +69,17 @@ You will see that the dialog has been imported. Click on the words `Kampus-Merde
 
 ![image](https://github.com/ArvyKR/arvykr.github.io/assets/95832640/f589811e-1557-49d8-9d06-58ea33d88e15)
 ![image](https://github.com/ArvyKR/arvykr.github.io/assets/95832640/2889fd65-f6c4-48a8-b7cb-288756b0e16a)
-![image](https://github.com/ArvyKR/arvykr.github.io/assets/95832640/87fb6b03-6b2b-4af4-a14f-0f6f155e3aef)
+
+
+### Test out the Chatbot
+
+Normally, you can test the dialog skill be selecting the `Try it` button located at the top right side of the dialog skill panel, but when integrated with a search skill, a different method of testing must be used.
+
+<br>
+<p align="center">
+  <img src="https://github.com/ArvyKR/arvykr.github.io/assets/95832640/87fb6b03-6b2b-4af4-a14f-0f6f155e3aef">
+</p>
+<br>
 
 
 
