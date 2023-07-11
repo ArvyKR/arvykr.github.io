@@ -1,5 +1,8 @@
 # Implementation AI Chabot for Kampus Merdeka using Watson Assistant
 Capstone Project Arvy Kurnia Ramadhan in Infinite Learning 
+## Link
+[Kamdek BOT](https://arvykr.github.io/)
+
 
 # Pattern
 
@@ -13,8 +16,6 @@ Chatbot ini dirancang sebagai asisten virtual yang dapat digunakan oleh mahasisw
  [![watson][watson]][watson]
 * [IBM Watson Assistant](https://www.ibm.com/cloud/watson-assistant/): Build, test and deploy a bot or virtual agent across mobile devices, messaging platforms, or even on a physical robot.
 
-## Link
-[Kamdek BOT](https://arvykr.github.io/)
 
 # Flow 
 
