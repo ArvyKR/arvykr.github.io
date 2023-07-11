@@ -65,7 +65,8 @@ You will see that the dialog has been imported. Click on the words `Student-skil
 
 
 ![image](https://github.com/ArvyKR/arvykr.github.io/assets/95832640/f589811e-1557-49d8-9d06-58ea33d88e15)
-![image](https://github.com/ArvyKR/arvykr.github.io/assets/95832640/34be5a07-f223-4eeb-aa06-d23150449483)
+![image](https://github.com/ArvyKR/arvykr.github.io/assets/95832640/2889fd65-f6c4-48a8-b7cb-288756b0e16a)
+
 
 
 
