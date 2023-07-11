@@ -13,6 +13,9 @@ Chatbot ini dirancang sebagai asisten virtual yang dapat digunakan oleh mahasisw
  [![watson][watson]][watson]
 * [IBM Watson Assistant](https://www.ibm.com/cloud/watson-assistant/): Build, test and deploy a bot or virtual agent across mobile devices, messaging platforms, or even on a physical robot.
 
+## Link
+[Kamdek BOT](https://arvykr.github.io/)
+
 # Flow 
 
 ![flow](https://github.com/ArvyKR/arvykr.github.io/assets/95832640/9e35b30b-5be3-4ddb-884f-76dcd6bc1fae)
@@ -85,8 +88,7 @@ In this example I use the preview tab to test my chatbot
 
 
   
-## Link
-[Kamdek BOT](https://arvykr.github.io/)
+
 
 
   [watson]: https://img.shields.io/badge/watson-assistant-blue
