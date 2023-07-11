@@ -13,7 +13,7 @@ https://developer.ibm.com/patterns/assemble-a-pizza-ordering-chatbot-dialog/?mhs
 Chatbot ini dirancang sebagai asisten virtual yang dapat digunakan oleh mahasiswa/i untuk mendapatkan informasi mengenai berbagai aspek program Kampus Merdeka. Chatbot ini didukung oleh kecerdasan buatan (artificial intelligence) dan dapat memberikan jawaban atas pertanyaan yang diajukan oleh pengguna berdasarkan pengetahuan yang telah diprogram sebelumnya. Dengan adanya chatbot Kampus Merdeka, diharapkan mahasiswa/i dapat dengan mudah mengakses informasi yang dibutuhkan dan mendapatkan bantuan yang diperlukan dalam mencari informasi mengenai program Kampus Merdeka.
 
 ## Included components
- [![watson][watson]][watson]
+ [![ibm][ibm]][ibm]
 * [IBM Watson Assistant](https://www.ibm.com/cloud/watson-assistant/): Build, test and deploy a bot or virtual agent across mobile devices, messaging platforms, or even on a physical robot.
 
 
@@ -93,3 +93,4 @@ In this example I use the preview tab to test my chatbot
 
 
   [watson]: https://img.shields.io/badge/watson-assistant-blue
+  [ibm]: https://img.shields.io/badge/Watson-Assistant-61DAFB?logo=ibm
