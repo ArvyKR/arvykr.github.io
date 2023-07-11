@@ -47,13 +47,7 @@ Create the following services:
 
 You will see that you now have the ability to add a:
 * Dialog skill
-* Search skill
 
-<br>
-<p align="center">
-  <img src="GIFs/DialogSkill.gif">
-</p>
-<br>
 
 * Click on `Add dialog skill`
 
