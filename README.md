@@ -17,6 +17,9 @@ Chatbot ini dirancang sebagai asisten virtual yang dapat digunakan oleh mahasisw
 
 ![flow](https://github.com/ArvyKR/arvykr.github.io/assets/95832640/9e35b30b-5be3-4ddb-884f-76dcd6bc1fae)
 
+- User sends messages to the application (running locally or on IBM Cloud).
+- The application sends the user message to IBM Watson Assistant service, and displays the ongoing chat in a web page.
+
 ## Steps
 
 Follow these steps to setup and run this code pattern. The steps are described in detail below.
@@ -68,13 +71,6 @@ You will see that the dialog has been imported. Click on the words `Kampus-Merde
 ![image](https://github.com/ArvyKR/arvykr.github.io/assets/95832640/2889fd65-f6c4-48a8-b7cb-288756b0e16a)
 
 
-
-
-
-
-
-- User sends messages to the application (running locally or on IBM Cloud).
-- The application sends the user message to IBM Watson Assistant service, and displays the ongoing chat in a web page.
 
 
   
