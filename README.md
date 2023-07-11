@@ -59,7 +59,7 @@ You will see that you now have the ability to add a:
 
 * Click on `Import`
 
-You will see that the dialog has been imported. Click on the words `Student-skill` and explore the dialog to see the intents, entities, dialog.  You can also add to the dialog to extend the conversation.
+You will see that the dialog has been imported. Click on the words `Kampus-Merdeka-BOT` and explore the dialog to see the intents, entities, dialog.  You can also add to the dialog to extend the conversation.
 
 > **Note:** you can also create your dialog from scratch by selecting `Create skill` and adding in your own intents, entities and dialog.
 
