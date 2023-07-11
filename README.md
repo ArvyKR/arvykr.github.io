@@ -69,6 +69,7 @@ You will see that the dialog has been imported. Click on the words `Kampus-Merde
 
 ![image](https://github.com/ArvyKR/arvykr.github.io/assets/95832640/f589811e-1557-49d8-9d06-58ea33d88e15)
 ![image](https://github.com/ArvyKR/arvykr.github.io/assets/95832640/2889fd65-f6c4-48a8-b7cb-288756b0e16a)
+![image](https://github.com/ArvyKR/arvykr.github.io/assets/95832640/87fb6b03-6b2b-4af4-a14f-0f6f155e3aef)
 
 
 
