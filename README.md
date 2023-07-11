@@ -28,9 +28,7 @@ Follow these steps to setup and run this code pattern. The steps are described i
 
 Create the following services:
 
-* [**Watson Discovery**](https://cloud.ibm.com/catalog/services/discovery)
 * [**Watson Assistant**](https://cloud.ibm.com/catalog/services/assistant) 
-* [**Watson Natural Language Understanding**](https://cloud.ibm.com/catalog/services/natural-language-understanding)
 
 > **NOTE**: use the `Plus` offering of Watson Assistant. You have access to a 30 day trial.
 
