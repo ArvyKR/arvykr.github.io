@@ -80,6 +80,11 @@ You will see that the dialog has been imported. Click on the words `Student-skil
 
 * [![watson][watson]][watson]
 
+
+## Included components
+
+* [IBM Watson Assistant](https://www.ibm.com/cloud/watson-assistant/): Build, test and deploy a bot or virtual agent across mobile devices, messaging platforms, or even on a physical robot.
+  
 ### Link
 [Kamdek BOT](https://arvykr.github.io/)
 
