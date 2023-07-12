@@ -9,8 +9,7 @@
 https://developer.ibm.com/patterns/assemble-a-pizza-ordering-chatbot-dialog/?mhsrc=ibmsearch_a&mhq=
 
 # Description
-
-Chatbot ini dirancang sebagai asisten virtual yang dapat digunakan oleh mahasiswa/i untuk mendapatkan informasi mengenai berbagai aspek program Kampus Merdeka. Chatbot ini didukung oleh kecerdasan buatan (artificial intelligence) dan dapat memberikan jawaban atas pertanyaan yang diajukan oleh pengguna berdasarkan pengetahuan yang telah diprogram sebelumnya. Dengan adanya chatbot Kampus Merdeka, diharapkan mahasiswa/i dapat dengan mudah mengakses informasi yang dibutuhkan dan mendapatkan bantuan yang diperlukan dalam mencari informasi mengenai program Kampus Merdeka.
+This chatbot is designed as a virtual assistant that students can use to get information about various aspects of the Kampus Merdeka program. This chatbot is supported by artificial intelligence and can provide answers to questions posed by users based on pre-programmed knowledge. With the Kampus Merdeka chatbot, it is hoped that students can easily access the information they need and get the help they need in finding information about the Kampus Merdeka program.
 
 ## Included components
  [![ibm][ibm]][ibm]
